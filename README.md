@@ -15,6 +15,7 @@ wifi爆破工具 依赖库:pywifi,继承了内部类,直接拓展了remove_netwo
 密码字典全部放在程序同目录下的passwords文件夹下,这里我只放了少量字典
 需要字典的自己下载
 
-链接:https://pan.baidu.com/s/1EwhrI0OqgFz1XENzrs5PKQ?密码:1e50
+链接:https://pan.baidu.com/s/1EwhrI0OqgFz1XENzrs5PKQ?
+密码:1e50
 
 自定义字典请按照已有的字典格式
