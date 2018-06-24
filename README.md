@@ -1,10 +1,10 @@
 # wifiboom
+A WiFi Cracking Tool.
 wifi爆破工具
 
 
 WiFiboom正式版v1.0
 
-A wifi blasting tool
 wifi爆破工具 依赖库:pywifi,继承了内部类,直接拓展了remove_network_profile方法
 
 优化了一些东西
